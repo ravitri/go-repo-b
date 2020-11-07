@@ -3,5 +3,5 @@ package b
 import "fmt"
 
 func PrintB() {
-	fmt.Println("Inside B!")
+	fmt.Println("Hello from Repo B")
 }
